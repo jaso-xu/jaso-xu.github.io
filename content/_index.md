@@ -9,6 +9,6 @@ omit_header_text = true
 
 
 
-This is the homepage introduction. Write anything you like here — it is
+This is the my homepage. Write anything you like here — it is
 
 rendered as the top of the homepage.

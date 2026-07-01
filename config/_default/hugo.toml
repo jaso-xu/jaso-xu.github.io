@@ -1,5 +1,5 @@
 baseURL = "http://jaso-xu.github.io/"
-title = "Ananke Test Fixture"
+title = "My First Site"
 theme = "ananke"
 enableRobotsTXT = true
 

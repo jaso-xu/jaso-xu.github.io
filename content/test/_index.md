@@ -1,11 +1,10 @@
 +++
 date = '2026-07-01T21:27:17+08:00'
 draft = false
-featured_image = '/images/home.jpg'
 title = 'About'
 +++
 
 
 ## About
 
-about me
+test
